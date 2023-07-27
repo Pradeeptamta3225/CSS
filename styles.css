@@ -1,0 +1,29 @@
+
+.box{
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: 50%;
+    
+}
+
+
+#org{
+    background-color: orange;
+    margin-top: 20%;
+    text-align: center;
+}
+
+#wht{
+    background-color: white;
+}
+
+#grn{
+    background-color: green;
+    text-align: center;
+}
+
+img{
+    height: 100%;
+    padding-left:33%;
+}
