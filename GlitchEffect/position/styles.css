@@ -1,0 +1,45 @@
+
+.box{
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+ 
+
+
+#box-two{
+    position: relative;
+    top: 0px;
+}
+
+
+#box-two{
+    position: relative;
+    top: 0px;
+    left: 81.7rem;
+}
+
+
+#box-three{
+   position: absolute;
+   top: 45rem;
+   left: 8px;
+}
+
+
+
+#box-four{
+    position: relative;
+    top: 37.6rem;
+    left: 72rem;
+}
+
+
+.img{
+    display: inline-block;
+    position: relative;
+    top: 25rem;
+    left: 10rem;
+}
