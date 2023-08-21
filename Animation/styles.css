@@ -1,0 +1,21 @@
+:root{
+    --dark-red:#981a2c;
+
+}
+
+
+
+.container{
+    height: 700px;
+    background-color: yellow;
+    border: 2px solid brown;
+}
+
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid red;
+    color: var(--dark-red);
+}
