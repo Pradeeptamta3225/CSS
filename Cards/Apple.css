@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    color: black;
+}
+
+
+strong{
+    color: black;
+}
+
+.card{
+    height: 560px;
+    width: 1000px;
+    background-color: rgb(245, 245, 245);
+    padding: 30px;
+    border-radius: 1.5rem;
+
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.heading{
+    color: gray;
+    padding-top: 22px;
+    padding-bottom: 25px;
+}
+
+
+
+.left table{
+        font-size: large;   
+        padding-top: 5px; 
+        /* border-spacing: 1.1rem; */
+
+}
+
+
+th, p{
+    font-weight: lighter;
+    font-size: small;
+    color: gray;
+    
+}
+
+
+
+
+td{
+    padding-top: 12px;
+    padding-left: 17px;
+    padding-right: 50px;
+    border-bottom: 1px solid gray;
+
+}
+
+.right img{
+
+    padding-top: 20px;
+    height: 500px;
+    width: 520px;
+
+}
+
+
+.tag{
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 35px;
+    padding-left: 17px;
+    padding-bottom: 45px;
+}
+
+.tag a{
+    
+    text-decoration: none;
+    color: rgb(8, 137, 235);
+
+}
+
+
+#btn{
+    height: 3rem;
+    width: 14rem;
+    font-size: large;
+    color: white;
+    border: none;
+    border-radius: 2rem;
+    background-color:rgb(8, 137, 235);
+}
+
